@@ -28,7 +28,8 @@ const Navbar = () => {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-lg tracking-tight text-slate-100 group-hover:text-indigo-400 transition-colors">
-                Alex Morgan<span className="text-indigo-500">.dev</span>
+                Srabani Satadala
+                {/* <span className="text-indigo-500">.dev</span> */}
               </span>
               <span className="text-[10px] text-slate-400 tracking-wider uppercase font-mono">
                 Full Stack & Mobile
