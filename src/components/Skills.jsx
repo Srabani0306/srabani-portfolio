@@ -23,7 +23,7 @@ const Skills = () => {
     { name: "MySQL & PostgreSQL", category: "Database", icon: Database, color: "text-amber-400" },
     { name: "Git Version Control", category: "DevOps", icon: GitBranch, color: "text-orange-400" },
     { name: "TypeScript", category: "Frontend", icon: Terminal, color: "text-blue-500" },
-    { name: "CodeIgniter", category: "Backend", icon: Server, color: "text-orange-500" }
+   
   ];
 
   return (
