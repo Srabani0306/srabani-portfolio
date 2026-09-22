@@ -27,7 +27,7 @@ const Navbar = () => {
               <Code2 className="w-5 h-5 text-indigo-400 group-hover:scale-110 transition-transform" />
             </div>
             <div className="flex flex-col">
-              <span className="text-indigo-500 font-bold text-lg tracking-tight text-slate-100 group-hover:text-indigo-400 transition-colors">
+              <span className="text-indigo-500 font-bold text-lg tracking-tight group-hover:text-indigo-400 transition-colors">
                 Srabani Satadala
                 {/* <span className="text-indigo-500">.dev</span> */}
               </span>
