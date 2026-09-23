@@ -5,10 +5,10 @@ export const personalInfo = {
   about: "Full Stack Developer with experience in building production-ready applications across the full software development lifecycle. Skilled in frontend frameworks like React.js, Next.js, and Angular, coupled with robust backends in Laravel, PHP, Node.js, and Express. Experienced in designing scalable system architecture, service marketplaces, store management platforms, and employee management systems.",
   location: "India / Remote",
   email: "srabanisnayak94@gmail.com",
-  github: "https://github.com/studentofstars",
+  github: "https://github.com/Srabani159",
   githubUsername: "github.com/Srabani159",
-  linkedin: "https://linkedin.com/in/studentofstars",
-  linkedinUsername: "linkedin.com/in/studentofstars",
+  linkedin: "https://www.linkedin.com/in/srabani-satadala-nayak-124997142/",
+  linkedinUsername: "linkedin.com/in/srabani-satadala-nayak-124997142",
   twitter: "https://twitter.com",
   avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
   availability: "Available for Full-time Roles & High-Impact Projects",
@@ -141,8 +141,8 @@ export const projects = [
     description: "Architected and developed the frontend using React.js and Next.js. Engineered real-time service booking flows, interactive vehicle selection UI, partner management dashboards, and analytics charts. Connected with a high-performance Laravel backend API.",
     image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=1000&q=80",
     metrics: ["Real-time Booking Engine", "Partner Dashboard", "Analytics Suite"],
-    liveUrl: "https://github.com/studentofstars",
-    githubUrl: "https://github.com/studentofstars",
+    liveUrl: "https://github.com/Srabani159",
+    githubUrl: "https://github.com/Srabani159",
     features: [
       "Built responsive UI for vehicle service booking and selection using Next.js & React.js",
       "Integrated real-time APIs for live service status and pricing calculations",
@@ -165,8 +165,8 @@ export const projects = [
     description: "Developed both frontend and backend systems using Laravel and React.js. Implemented automated stock calculations, invoice generation, order fulfillment workflows, and analytical sales reporting.",
     image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=1000&q=80",
     metrics: ["Inventory Tracking", "Order Management", "Sales Reports"],
-    liveUrl: "https://github.com/studentofstars",
-    githubUrl: "https://github.com/studentofstars",
+    liveUrl: "https://github.com/Srabani159",
+    githubUrl: "https://github.com/Srabani159",
     features: [
       "Built full CRUD inventory & stock alert system",
       "Order processing pipeline with multi-status tracking",
@@ -189,8 +189,8 @@ export const projects = [
     description: "Engineered an end-to-end employee management web application for Strivesteam Pvt. Ltd. Features daily attendance tracking, automated leave management, employee profiles, and comprehensive admin dashboard metrics.",
     image: "https://www.cutehr.io/wp-content/uploads/2020/05/employees-dashboard-cuteHR-1.jpg",
     metrics: ["Attendance System", "Employee Portal", "Admin Dashboard"],
-    liveUrl: "https://github.com/studentofstars",
-    githubUrl: "https://github.com/studentofstars",
+    liveUrl: "https://github.com/Srabani159",
+    githubUrl: "https://github.com/Srabani159",
     features: [
       "Real-time attendance & check-in/check-out tracking",
       "Employee leave application and manager approval workflow",
@@ -213,8 +213,8 @@ export const projects = [
     description: "Designed responsive UI components and state management with Angular and RxJS at Apietech Pvt. Ltd., improving application speed and UX.",
     image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1000&q=80",
     metrics: ["Angular Dynamic UI", "RxJS Data Streams", "Improved UX"],
-    liveUrl: "https://github.com/studentofstars",
-    githubUrl: "https://github.com/studentofstars",
+    liveUrl: "https://github.com/Srabani159",
+    githubUrl: "https://github.com/Srabani159",
     features: [
       "Dynamic Angular component architecture",
       "RxJS observable streams for real-time API integrations",
@@ -259,8 +259,8 @@ export const projects = [
       "Analytics"
     ],
 
-    liveUrl: "https://github.com/studentofstars",
-    githubUrl: "https://github.com/studentofstars",
+    liveUrl: "https://github.com/Srabani159",
+    githubUrl: "https://github.com/Srabani159",
 
     features: [
       "Responsive service marketplace interface",
@@ -311,7 +311,7 @@ export const projects = [
     ],
 
     liveUrl: "https://your-zuess-domain.com",
-    githubUrl: "https://github.com/studentofstars",
+    githubUrl: "https://github.com/Srabani159",
 
     features: [
       "Responsive corporate website using Next.js and React.js",
