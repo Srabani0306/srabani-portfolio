@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { personalInfo, keyStrengths } from '../data/portfolioData';
-import { Terminal, ArrowRight, Mail, CheckCircle2, Code2, Layers, Cpu, Check } from 'lucide-react';
+import { Terminal, ArrowRight, Mail, CheckCircle2, Code2, Layers, Cpu, Check, Download } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './SocialIcons';
 
 const roles = [
@@ -118,6 +118,15 @@ const Hero = () => {
               className="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-slate-200 bg-slate-800/90 hover:bg-slate-700 border border-slate-700 rounded-xl transition-all hover:scale-105 cursor-pointer"
             >
               Contact Me
+            </a>
+
+            <a
+              href="/Srabani-Satadala-Nayak-CV.pdf"
+              download="Srabani Satadala Nayak CV.pdf"
+              className="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-indigo-300 bg-transparent hover:bg-indigo-500/10 border border-indigo-500/50 rounded-xl transition-all hover:scale-105 cursor-pointer"
+            >
+              <Download className="w-4 h-4" />
+              Download CV
             </a>
           </div>
 
