@@ -106,6 +106,7 @@ export const experienceTimeline = [
         details:
           "Developed a professional Chartered Accountancy (CA) website showcasing financial and business services, including Audit & Assurance, Financial Consulting, Taxation Consulting, Project Financing, Bookkeeping & Accounts, and Risk Advisory."
       },
+      
       {
         name: "EDFS – CA & Financial Services Website",
         details:
