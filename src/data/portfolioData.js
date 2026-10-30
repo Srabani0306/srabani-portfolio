@@ -106,7 +106,7 @@ export const experienceTimeline = [
         details:
           "Developed a professional Chartered Accountancy (CA) website showcasing financial and business services, including Audit & Assurance, Financial Consulting, Taxation Consulting, Project Financing, Bookkeeping & Accounts, and Risk Advisory."
       },
-      
+
       {
         name: "EDFS – CA & Financial Services Website",
         details:
@@ -117,6 +117,7 @@ export const experienceTimeline = [
         details:
           "Developed a government website for Dhamnagar Notified Area Council (NAC), providing a digital platform for civic information, public services, government updates, and local administration-related information."
       }
+      
     ],
 
     tech: ["React.js", "Next.js", "Laravel", "PHP", "MySQL", "REST APIs", "Tailwind CSS", "Git"]
